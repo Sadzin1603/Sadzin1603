@@ -63,3 +63,19 @@
 <img src="https://raw.githubusercontent.com/Sadzin1603/Sadzin1603/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left">Projetos</h2>
+
+###
+
+<a href="https://astro-lego.vercel.app" target="_blank" align="left">Astro-Lego</a>
+
+###
+
+<a href="https://raca-eventos.vercel.app" target="_blank" align="left">Raca-Eventos</a>
+
+###
+
+<a href="https://task-manager-mfag.vercel.app" target="_blank" align="left">TaskManager</a>
+
+###
