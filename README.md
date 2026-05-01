@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sadzin1603/Sadzin1603/output/snake.svg" alt="Snake animation" />
+<h2>Currently I am a freelancer, learning new technologies and specializing in the field.</h2>
 
 ###
 
