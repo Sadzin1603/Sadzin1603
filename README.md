@@ -79,3 +79,7 @@
 <a href="https://task-manager-mfag.vercel.app" target="_blank" align="left">TaskManager</a>
 
 ###
+
+<a href="https://ritualmanager.vercel.app" target="_blank" align="left">RitualManager</a>
+
+###
