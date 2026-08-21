@@ -103,7 +103,7 @@ It includes authentication, different user roles, ticket assignment, status mana
 
 `C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `JWT`
 
-> Currently under development.
+[Repository](https://github.com/Sadzin1603/ChamadoManager)
 
 ---
 
