@@ -7,7 +7,7 @@
 ![Fatec ZL](https://img.shields.io/badge/Fatec_ZL-ADS-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Localização](https://img.shields.io/badge/São_Paulo-SP,_Brasil-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182)](linkedin.com/in/kauan-f-rossi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182)](https://linkedin.com/in/kauan-f-rossi/)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8E1A0F)](mailto:kauanfeliperossi@gmail.com)
 
 </div>
